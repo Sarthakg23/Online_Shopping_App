@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sarthak_Goyal</string>
+
+    <string name="name">Enter Your Name<font color='#cc0029'>*</font></string>
+    <string name="mobile">Enter Mobile Number<font color='#cc0029'>*</font></string>
+    <string name="pass">Enter Password<font color='#cc0029'>*</font></string>
+    <string name="repass">Re enter Password<font color='#cc0029'>*</font></string>
+    <string name="aadhar">Enter Your Aadhar ID<font color='#cc0029'>*</font></string>
+    <string name="shop_name">Enter Shop Name<font color='#cc0029'>*</font></string>
+    <string name="shop_pin">Enter Shop Pin code<font color='#cc0029'>*</font></string>
+    <string name="shop_loc">Choose Location<font color='#cc0029'>*</font></string>
+    <string name="front">Upload Front image of shop<font color='#cc0029'>*</font></string>
+    <string name="cat">Choose Shop Category<font color='#cc0029'>*</font></string>
+    <string name="vehicle_type">Which type of vehicle you have?<font color='#cc0029'>*</font></string>
+    <string name="driving_licence">Enter your Driving Licence Number<font color='#cc0029'>*</font></string>
+    <string name="vehicle_number">Enter Your Vehicle Number<font color='#cc0029'>*</font></string>
+</resources>
